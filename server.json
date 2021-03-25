@@ -2,22 +2,22 @@
     "customer": {
         "version": "1.0",
         "versionNumber": "20210302",
-        "serverUrl": "http://www.teraenergy.ga:10010/"
+        "serverUrl": "http://quaca.co.kr/:10010/"
     },
     "store": {
         "version": "1.0",
         "versionNumber": "20210302",
-        "serverUrl": "http://www.teraenergy.ga:10020/"
+        "serverUrl": "http://quaca.co.kr/:10020/"
     },
     "customerNotice": {
         "version": "1.0",
         "versionNumber": "20210303",
-        "serverUrl": "http://www.teraenergy.ga:10050/"
+        "serverUrl": "http://quaca.co.kr/:10050/"
     },
     "storeNotice": {
         "version": "1.0",
         "versionNumber": "20210303",
-       "serverUrl": "http://www.teraenergy.ga:10060/"
+       "serverUrl": "http://quaca.co.kr/:10060/"
     },
     "geoLocation": {
         "version": "1.0",
