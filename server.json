@@ -23,10 +23,5 @@
         "version": "1.0",
         "versionNumber": "20210303",
         "serverUrl": "http://logerdocker.cafe24.com:13000/"
-    },
-    "test_store": {
-    "version": "1.0",
-    "versionNumber": "20210302",
-    "serverUrl": "http://teraenergy.ga:10020/"
     }
 }
