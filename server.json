@@ -18,10 +18,5 @@
         "version": "1.0",
         "versionNumber": "20210303",
        "serverUrl": "http://quaca.co.kr:10060/"
-    },
-    "geoLocation": {
-        "version": "1.0",
-        "versionNumber": "20210303",
-        "serverUrl": "http://logerdocker.cafe24.com:13000/"
     }
 }
