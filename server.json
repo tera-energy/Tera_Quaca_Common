@@ -2,7 +2,7 @@
     "customer": {
         "version": "1.0",
         "versionNumber": "20210302",
-        "serverUrl": "http://quaca.co.kr:10010/"
+        "serverUrl": "http://192.168.0.17/"
     },
     "store": {
         "version": "1.0",
