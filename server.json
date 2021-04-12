@@ -9,6 +9,11 @@
         "versionNumber": "20210302",
         "serverUrl": "http://quaca.co.kr:10020/"
     },
+    "store_WEB": {
+        "version": "1.0",
+        "versionNumber": "20210412",
+        "serverUrl": "http://quaca.co.kr:10030/"
+    },
     "customerNotice": {
         "version": "1.0",
         "versionNumber": "20210303",
