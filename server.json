@@ -2,31 +2,37 @@
     "customer": {
         "version": "1.0",
         "versionNumber": "20210302",
-        "serverUrl": "http://49.50.167.171:10010/"
+        "serverUrl": "http://49.50.167.171:10010/",
+        "status" : "in use"
     },
     "store": {
         "version": "1.0",
         "versionNumber": "20210302",
-        "serverUrl": "http://49.50.167.171:10020/"
+        "serverUrl": "http://49.50.167.171:10020/",
+        "status" : "in use"
     },
     "store_WEB": {
         "version": "1.0",
         "versionNumber": "20210412",
-        "serverUrl": "http://49.50.167.171:10030/"
+        "serverUrl": "http://49.50.167.171:10030/",
+        "status" : "in use"
     },
     "customerNotice": {
         "version": "1.0",
         "versionNumber": "20210303",
-        "serverUrl": "http://49.50.167.171:10050/"
+        "serverUrl": "http://49.50.167.171:10050/",
+        "status" : "in use"
     },
     "storeNotice": {
         "version": "1.0",
         "versionNumber": "20210303",
-        "serverUrl": "http://49.50.167.171:10060/"
+        "serverUrl": "http://49.50.167.171:10060/",
+        "status" : "Do not used"
     },
-    "tera-club": {
+    "webView": {
         "version": "1.0",
-        "versionNumber": "20210603",
-        "serverUrl": "http://quaca.co.kr:10090/"
+        "versionNumber": "20210830",
+        "serverUrl": "http://quaca.co.kr:8080/",
+        "status" : "in use"
     }
 }
